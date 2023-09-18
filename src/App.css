@@ -1,0 +1,20 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+ol .list-group {
+  text-decoration: none;
+}
+
+
+a {
+  color: #6138d1;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #0e0680;
+  transition: 2ms ease-in-out 0.5s;
+}
