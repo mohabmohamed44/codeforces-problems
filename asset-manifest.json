@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeforces-problems/static/css/main.a7f00d97.css",
+    "main.js": "/codeforces-problems/static/js/main.7047f85f.js",
+    "index.html": "/codeforces-problems/index.html",
+    "main.a7f00d97.css.map": "/codeforces-problems/static/css/main.a7f00d97.css.map",
+    "main.7047f85f.js.map": "/codeforces-problems/static/js/main.7047f85f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f00d97.css",
+    "static/js/main.7047f85f.js"
+  ]
+}
